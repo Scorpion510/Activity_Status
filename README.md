@@ -24,3 +24,4 @@ To install it simply download the zip file, extract it to your resource folder a
 
 # Support
 If you need support you can join my discord server and under the Development Category you will find the support channel where you can post your questions.
+==>Discord: https://discord.gg/yFmgWSaJDn
