@@ -21,3 +21,6 @@ To install it simply download the zip file, extract it to your resource folder a
 ==>Make sure the folder is named as "Activity_Status"
 ==>Start the resource in your server.cfg;
     "ensure Activity_Status"
+
+# Support
+If you need support you can join my discord server and under the Development Category you will find the support channel where you can post your questions.
